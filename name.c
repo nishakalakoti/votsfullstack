@@ -11,6 +11,7 @@ int main()
     {
         printf("%s",name[i]);
     }
+      printf("%s",name);
     return 0;
     
 }
