@@ -13,6 +13,7 @@ int main()
     }
       printf("%s",name);
         printf("%s",name);
+          printf("%s",name);
     return 0;
     
 }
