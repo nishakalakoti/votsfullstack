@@ -8,7 +8,10 @@ int main()
     {
         int g=l*i;
         printf("%d*%d=%d",l,i,g);
+<<<<<<< HEAD
         printf("\n");
+=======
+>>>>>>> main
     }
     return 0;
     
