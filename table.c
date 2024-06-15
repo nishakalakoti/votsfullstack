@@ -6,8 +6,9 @@ int main()
     scanf("%d",&r);
     for (int i = 1; i <= 10; i++)
     {
-        int c=r*i;
-        printf("\n%d*%d=%d",r,i,c);
+        int s=r*i;
+        printf("\n%d*%d=%d",r,i,s);
+        
     }
     return 0;
     
