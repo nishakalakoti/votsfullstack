@@ -3,6 +3,7 @@ int main()
 {
     int s;
     printf("enter any table number");
+
     scanf("%d",&s);
     for (int i = 1; i <=10; i++)
     {
@@ -10,4 +11,6 @@ int main()
         printf("\n%d*%d=%d",s,i,t);
     }
     return 0;
+
+    
 }
